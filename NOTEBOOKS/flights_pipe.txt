@@ -1,0 +1,3 @@
+INFO:root:Inicio da execução
+WARNING:root:Muitos NULOS
+ERROR:root:Muitos NULOS
